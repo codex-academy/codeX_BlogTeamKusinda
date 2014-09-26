@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+	Blog 1 
+	</title> 
+
+<link rel="stylesheet" type="text/css" href="blog1.css">  
+
+</head>
+
+<body> 
+
+	<div id="ContentBlock"> 
+		
+		<div id="TopItems"> 
+
+			<div id="TitleBox"> 
+			<center> <h1 class="headers">Why Are We At Codex?</h1> </center>
+			</div> 
+
+			<div id="DateBox"> 
+			<center> <h4 class="headers"> 25/09/2014 </h4> </center>
+			</div>
+ 
+		</div> 
+
+			<div id="ContentItems"> 
+
+				<div id="WrittenByBox"> 
+				<center> <h5 class="headers">Written By <a id="Author" href= "http://coders.projectcodex.co/khululekani/"> Khululekani </a> </h5> </center>
+				</div> 
+
+				<div id="MainTextBox">  
+
+					
+
+					<p class="paragraphs"> 
+<img src ="Images/tumblr_inline_nbyfyx3TaW1rvzuyz.jpg" id="BlogPicture">
+
+We are at Codex inorder to learn & gain coding skills and become better programmers and developers. Africa is at the dawn of a technological revolution, and this is a conversation we want to actively be a part of. We learn to create a number of things such as software as well as broadening our knowledge about the Tech industry.
+CodeX is the best place to groom future coders. We get an opportunity to fine tune our skills through figuring out what works and what doesn't in the industry.
+This is a suitable platform to explore our raw, and undiscovered talents. It also deploys young, and ambitious developers to the real world. There aren't any tests, exams or tutors. This is the real world. This is Codex. <br> <br> 
+
+Our team consists of Sihle, Khululekani and Ndabenhle. Three individuals from differing backgrounds but with one sole goal in mind; to be inducted into the Cape Town tech scene. Through blood sweat and tears, we will push ourselves to the limits. The team name "Kusinda" is a combination of all our names. Team Kusinda is a team of winners. Team Kusinda shall not falter.
+
+<div class="Button"> 
+<a href="home1.html" class="Button1">Back</a>
+</div> 
+</p> 
+
+
+
+									
+ 
+				</div>
+
+			</div> 
+
+		
+
+	</div> 
+
+</body>
+
+</html>
+
