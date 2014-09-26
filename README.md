@@ -1,6 +1,6 @@
 #Team members
 
-Ndabenhle
-Khululekani
-Sihle
+Ndabenhle N.
+Khululekani B.
+Sihle Q.
 
