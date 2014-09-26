@@ -1,0 +1,289 @@
+body { 
+	background-color : none; 
+	background-image : url("Images/dota__repeating_tile_background_by_tbsdota-d5lschf.png");
+	
+}
+
+#ContentBlock { 
+	height : 570px;
+	width : 800px;
+	background-color : #800000;
+	#border : 2px solid #808000; 
+	margin-top : 50px;
+	margin-left: auto;
+	margin-right: auto; 
+	border-radius: 15px; 
+	
+
+} 
+
+#ContentBlockHome {
+	height : 770px;
+	width : 800px;
+	background-color : #800000;
+	#border : 2px solid #808000; 
+	margin-top : 50px;
+	margin-left: auto;
+	margin-right: auto; 
+	border-radius: 15px;
+} 
+
+.headers {
+	color : black; 
+	font-family: Consolas, monaco, monospace;
+	filter: alpha(opacity=100);
+        opacity: 1.0;
+	-moz-opacity: 1.0; 
+	margin: 0px;
+	padding: 0px; 
+	margin-top: 5px;
+	color: #98FB98; 
+	text-decoration: underline;
+} 
+
+#TopItems {
+
+	height: 80px;
+	width: 750px;
+	border-bottom: 2px solid #8B4599; 
+	float: left; 
+	position: relative;
+	margin: 20px; 
+	#background-color: #8B4513;
+} 
+
+#TitleBox { 
+
+	height: 60px;
+	width: 400px;
+	border: 1px solid #A0522D; 
+	margin: 10px; 
+	margin-left: 0px; 
+	position: relative;
+	float: left; 
+	background-color: #A0522D; 
+	
+} 
+
+#DateBox { 
+
+	height: 30px;
+	width: 200px;
+	border: 1px solid #A0522D;
+	position: relative; 
+	float: left; 
+	margin: 10px; 
+	background-color: #A0522D;
+}
+
+#ContentItems {
+
+	height: 420px;
+	width: 750px;
+	border: 1px solid #8B4513;
+	float: left;
+	position: relative; 
+	margin-left: 20px; 
+	margin-right: 20px;
+	margin-top: -10px; 
+	background-color: #8B4513;
+} 
+
+#ContentItemsHome {
+	
+ 	height: 620px;
+	width: 750px;
+	border: 1px solid #8B4513;
+	float: left;
+	position: relative; 
+	margin-left: 20px; 
+	margin-right: 20px;
+	margin-top: -10px; 
+	background-color: #8B4513; 
+}
+ 
+
+#WrittenByBox {
+
+
+	height: 30px;
+	width: 200px;
+	position: relative;
+	float: left;
+	border: 1px solid #A0522D; 
+	margin: 10px; 
+	background-color: #A0522D
+} 
+
+#Author {
+	text-decoration: none; 
+	color: orange;
+} 
+
+#Author:hover { 
+	color: red;
+} 
+
+#MainTextBox {
+
+	height: 360px;
+	width: 730px;
+	position: relative;
+	float: left;
+	border: 1px solid #A0522D; 
+	margin: 10px; 
+	margin-top: 0px;
+	background-color: #A0522D; 
+	
+
+} 
+
+#BlogSnippet {
+
+	height: 150px;
+	width: 730px;
+	position: relative;
+	float: left;
+	border: 1px solid #A0522D; 
+	margin: 10px; 
+	margin-top: 10px;
+	background-color: #A0522D;
+} 
+
+#PostSummaryBox { 
+	height: 140px;
+	width: 500px;
+	#border: 1px solid #BDB76B; 
+	margin-left: 220px; 
+	margin-top: 10px; 
+	position: relative; 
+	#background-color: #BDB76B;
+} 
+
+#SummaryHeader { 
+	height: 35px;
+	width: 200px;
+	float: left;
+	border: 1px solid #D2691E;
+	background-color: #D2691E;
+	position: relative; 
+	margin: 0px;
+} 
+
+#BlogPicture {
+
+	height: 130px;
+	width: 200px;
+	#border: 1px solid green;
+	position: relative;
+	float: right;  
+	margin: 10px; 
+	border-radius: 20px;
+} 
+
+#BlogPicture2 {
+	height: 130px;
+	width: 200px;
+	#border: 1px solid green;
+	position: relative;
+	float: left;  
+	margin: 10px; 
+	#border-radius: 20px;
+} 
+
+.paragraphs { 
+	position: relative;
+	float: left; 
+	clear: left; 
+	margin: 0px;
+	padding: 5px;
+	color: #FFD700; 
+	font-family: Geneva, Tahoma, Verdana, sans-serif; 
+	#font-weight: bold;
+} 
+
+.paragraphs2 {
+
+	position: relative;
+	float: left; 
+	margin: 0px; 
+	padding: 0px;
+	color: #FFD700; 
+	font-family: Geneva, Tahoma, Verdana, sans-serif; 
+	#font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+
+
+
+.Button {
+	height: 40px;
+	width: 150px;
+	position: relative;
+	float: right;
+	#border: 1px solid orange;
+	margin: 0; 
+	margin-top: -20px;
+	padding: 0;
+} 
+
+.Button2 {
+	height: 40px;
+	width: 150px;
+	position: absolute;
+	float: right;
+	#border: 1px solid orange;
+	margin: 0px; 
+	padding: 0px; 
+	bottom: 10px;
+	right: 5px;
+} 
+ 
+
+
+
+.Button1 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f24537), color-stop(1, #c62d1f) );
+	background:-moz-linear-gradient( center top, #f24537 5%, #c62d1f 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24537', endColorstr='#c62d1f');
+	background-color:#f24537;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #d02718;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #810e05;
+}
+.Button1:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #c62d1f), color-stop(1, #f24537) );
+	background:-moz-linear-gradient( center top, #c62d1f 5%, #f24537 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24537');
+	background-color:#c62d1f;
+}.Button1:active {
+	position:relative;
+	top:1px;
+
