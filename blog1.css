@@ -178,7 +178,19 @@ body {
 	position: relative;
 	float: right;  
 	margin: 10px; 
-	border-radius: 20px;
+	border-radius: 10px;
+} 
+
+#BlogPicture3 {
+	height: 130px;
+	width: 200px;
+	#border: 1px solid green;
+	position: relative;
+	float: left;   
+	margin-top: -10px; 
+	border-radius: 10px; 
+	margin: 10px; 
+	
 } 
 
 #BlogPicture2 {
@@ -188,13 +200,11 @@ body {
 	position: relative;
 	float: left;  
 	margin: 10px; 
-	#border-radius: 20px;
+	#border-radius: 10px;
 } 
 
 .paragraphs { 
 	position: relative;
-	float: left; 
-	clear: left; 
 	margin: 0px;
 	padding: 5px;
 	color: #FFD700; 
@@ -234,7 +244,20 @@ body {
 	position: absolute;
 	float: right;
 	#border: 1px solid orange;
-	margin: 0px; 
+	margin: -10px; 
+	padding: 0px; 
+	bottom: 10px;
+	right: 5px;
+}
+
+.Button3 {
+
+	height: 40px;
+	width: 150px;
+	position: absolute;
+	float: right;
+	#border: 1px solid orange;
+	margin: -15px; 
 	padding: 0px; 
 	bottom: 10px;
 	right: 5px;
@@ -271,9 +294,9 @@ body {
 	font-size:15px;
 	font-weight:bold;
 	font-style:normal;
-	height:40px;
-	line-height:40px;
-	width:140px;
+	height:30px;
+	line-height:30px;
+	width:110px;
 	text-decoration:none;
 	text-align:center;
 	text-shadow:1px 1px 0px #810e05;
@@ -286,4 +309,10 @@ body {
 }.Button1:active {
 	position:relative;
 	top:1px;
+}
 
+video { 
+	
+	position: relative; 
+	margin: 40px;
+}
