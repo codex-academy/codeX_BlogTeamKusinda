@@ -257,10 +257,23 @@ body {
 	position: absolute;
 	float: right;
 	#border: 1px solid orange;
-	margin: -20px; 
+	margin: -15px; 
 	padding: 0px; 
 	bottom: 10px;
 	right: 5px;
+}
+
+.Button4 {
+	height: 40px;
+	width: 150px;
+	position: relative;
+	float: left;
+	#border: 1px solid orange;
+	margin: -15px; 
+	padding: 0px; 
+	bottom: 10px;
+	right: 5px;
+
 } 
  
 
@@ -315,4 +328,29 @@ video {
 	
 	position: relative; 
 	margin: 40px;
-}
+} 
+
+#PostHeading { 
+	margin-left:20px; 
+	margin-top: 10px;
+	margin-bottom: 5px; 
+	height: 30px;
+	width: 300px;
+} 
+
+#PostBody {
+	margin-left:20px; 
+	margin-top: 0px;
+	margin-bottom: 5px; 
+	height: 260px; 
+	width: 500px; 
+	
+} 
+
+#ButtonPost {
+	margin-left:20px; 
+	margin-top: 0px;
+	margin-bottom: 5px;
+} 
+
+
