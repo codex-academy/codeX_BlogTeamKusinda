@@ -4,7 +4,13 @@
 <head>
 	<title>
 	Home 
-	</title> 
+	</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+<script type="text/javascript" src="blog1.js"></script> 
 
 <link rel="stylesheet" type="text/css" href="blog1.css">  
 
@@ -91,11 +97,11 @@
 								</div> 
 
 								<div id="DateBox"> 
-									<center> <h4 class="headers"> 28/09/2014 </h4> </center>
+									<center> <h4 class="headers"> 30/09/2014 </h4> </center>
 								</div> 
 
-								<p class="paragraphs2"> This is a test of how a blog snippet will look...
-								please click "See More" for more!! </p>
+								<p class="paragraphs2"> Click more to see what we have learnt during
+									our time at CodeX so far... </p>
 				
 						<div class="Button2"> 
 						<a href="Learnt.html" class="Button1">See More</a>
@@ -107,12 +113,12 @@
 				</div>        
 
 				
-
-				
-
 			</div> 
 
-		
+		<div class='Button4'>
+				<a href="NewPost.html" class='Button1'> New Post</a>  
+				</div>
+				<input type='button' id='refresh' value='refresh'>
 
 	</div> 
 
